@@ -1,5 +1,6 @@
 a=70
 b=50
-sub=a-b
+mul=a*b
+
 
 
