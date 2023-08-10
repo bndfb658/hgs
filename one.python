@@ -1,4 +1,5 @@
 a=70
 b=50
-sum=a+b
+sub=a-b
+
 
