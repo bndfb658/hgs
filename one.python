@@ -1,6 +1,6 @@
 a=70
 b=50
-mul=a*b
+sum=a+b
 
 
 
